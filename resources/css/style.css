@@ -18,3 +18,43 @@ header a {
     color: aquamarine;
     font-size: 16px;
 }
+
+.iphone video {
+    object-fit: obtain;
+    /* width: 200px;
+    height: 200px; */
+}
+
+.content {
+    color: #fff;
+}
+
+.content h2 {
+    font-weight: 300;
+    font-size: 42px;
+    font-family: 'verdana';
+}
+
+.content p {
+    font-family: 21px;
+    font-size: 21px;
+    color: gray;
+}
+
+.bottom h3 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: #fff;
+}
+
+.bottom p {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.last p{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
